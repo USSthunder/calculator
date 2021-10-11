@@ -1,4 +1,4 @@
-
+//This is the code to allow the actual calaculator work
 var currentNumber = 1;
 var num1 = null;
 var num2 = null;
